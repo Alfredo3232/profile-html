@@ -6,3 +6,19 @@ h1 {
     text-align: center;
     font-size: xx-large;
 }
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.caja {
+    background-color: white;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem auto;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    width: 50vw;
+    border: 1px solid whitesmoke;
+}
